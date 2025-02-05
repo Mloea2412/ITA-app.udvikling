@@ -1,0 +1,15 @@
+/Users/marie-louise/Desktop/It-arkitektur/2. semester/App. udvikling/Modul2/Opgavermodul2/opgave2.04/bin/Debug/net6.0/opgave2.04
+/Users/marie-louise/Desktop/It-arkitektur/2. semester/App. udvikling/Modul2/Opgavermodul2/opgave2.04/bin/Debug/net6.0/opgave2.04.deps.json
+/Users/marie-louise/Desktop/It-arkitektur/2. semester/App. udvikling/Modul2/Opgavermodul2/opgave2.04/bin/Debug/net6.0/opgave2.04.runtimeconfig.json
+/Users/marie-louise/Desktop/It-arkitektur/2. semester/App. udvikling/Modul2/Opgavermodul2/opgave2.04/bin/Debug/net6.0/opgave2.04.dll
+/Users/marie-louise/Desktop/It-arkitektur/2. semester/App. udvikling/Modul2/Opgavermodul2/opgave2.04/bin/Debug/net6.0/opgave2.04.pdb
+/Users/marie-louise/Desktop/It-arkitektur/2. semester/App. udvikling/Modul2/Opgavermodul2/opgave2.04/obj/Debug/net6.0/opgave2.03.csproj.AssemblyReference.cache
+/Users/marie-louise/Desktop/It-arkitektur/2. semester/App. udvikling/Modul2/Opgavermodul2/opgave2.04/obj/Debug/net6.0/opgave2.03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marie-louise/Desktop/It-arkitektur/2. semester/App. udvikling/Modul2/Opgavermodul2/opgave2.04/obj/Debug/net6.0/opgave2.03.AssemblyInfoInputs.cache
+/Users/marie-louise/Desktop/It-arkitektur/2. semester/App. udvikling/Modul2/Opgavermodul2/opgave2.04/obj/Debug/net6.0/opgave2.03.AssemblyInfo.cs
+/Users/marie-louise/Desktop/It-arkitektur/2. semester/App. udvikling/Modul2/Opgavermodul2/opgave2.04/obj/Debug/net6.0/opgave2.03.csproj.CoreCompileInputs.cache
+/Users/marie-louise/Desktop/It-arkitektur/2. semester/App. udvikling/Modul2/Opgavermodul2/opgave2.04/obj/Debug/net6.0/opgave2.04.dll
+/Users/marie-louise/Desktop/It-arkitektur/2. semester/App. udvikling/Modul2/Opgavermodul2/opgave2.04/obj/Debug/net6.0/refint/opgave2.04.dll
+/Users/marie-louise/Desktop/It-arkitektur/2. semester/App. udvikling/Modul2/Opgavermodul2/opgave2.04/obj/Debug/net6.0/opgave2.04.pdb
+/Users/marie-louise/Desktop/It-arkitektur/2. semester/App. udvikling/Modul2/Opgavermodul2/opgave2.04/obj/Debug/net6.0/opgave2.03.genruntimeconfig.cache
+/Users/marie-louise/Desktop/It-arkitektur/2. semester/App. udvikling/Modul2/Opgavermodul2/opgave2.04/obj/Debug/net6.0/ref/opgave2.04.dll

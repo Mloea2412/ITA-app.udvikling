@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rut9WUznBlSg9fWE3CH8ktdfI62NI9DTZ7/Y1/F5SJxjsCNZ4A2e3zZNxELcIYZI02NhtLYS4TfXJOa/5cuYEQ==",
+  "success": true,
+  "projectFilePath": "/Users/marie-louise/Desktop/It-arkitektur/2. semester/App. udvikling/Modul02/Modul2/Opgavermodul2/opgave2.04/opgave2.03.csproj",
+  "expectedPackageFiles": [
+    "/Users/marie-louise/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "/Users/marie-louise/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.21/microsoft.netcore.app.host.osx-arm64.6.0.21.nupkg.sha512",
+    "/Users/marie-louise/.nuget/packages/microsoft.netcore.app.ref/6.0.21/microsoft.netcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
